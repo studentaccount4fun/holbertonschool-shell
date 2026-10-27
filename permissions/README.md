@@ -1,1 +1,2 @@
 - Script 0-iam_betty is a script that changes users to betty.
+- Script 1 1-who_am_i is a script that asks what user is on at the moment.
