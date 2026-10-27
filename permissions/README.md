@@ -1,2 +1,3 @@
 - Script 0-iam_betty is a script that changes users to betty.
 - Script 1 1-who_am_i is a script that asks what user is on at the moment.
+- Script 8 8-james_bond is a script that gives zero permissions to owners or group members but does give permissions to anyone else
