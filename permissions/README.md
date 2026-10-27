@@ -1,0 +1,1 @@
+- Script 0-iam_betty is a script that changes users to betty.
