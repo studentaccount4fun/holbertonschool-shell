@@ -1,2 +1,2 @@
-# shell-basics
-First Shell Basics Holberton Project
+- Task 1 prints a message "Hello, World"
+- Task 2 prints a weird smiley emoji "(Ôo)'
